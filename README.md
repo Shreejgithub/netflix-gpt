@@ -21,8 +21,20 @@
 - Unsubscribed to the onAuthStateChanged callback
 - Add Hardcoded values to the constants file
 - Register TMDB API & create an app & get access token
-- Get data fromTMDB now playing movies lists API
-- 
+- Get data from TMDB now playing movies lists API
+- Custom Hook for noe playing movies 
+- Update the store with movies data
+- Planning for main container and secondary container
+- Fetch data for trailer video
+- update store with trailer video data
+- Embedded the youtube video and make it autoplay and mute
+- Tailwind Classes to make Main Container look awsome
+- Build Secondary Component
+- Build Movie List
+- Build Movie Card
+- TMDB Image CDN URL
+- Made the Browse page amazing with Tailwing CSS
+- usePopularMovies Custom hook
 
 
 # Features
